@@ -95,6 +95,6 @@ echo -e "${GREEN}╔════════════════════
 echo -e "${GREEN}║          Bootstrap complete!          ║${NC}"
 echo -e "${GREEN}╚═══════════════════════════════════════╝${NC}"
 echo ""
-echo -e "  Duration : ${CYAN}${MINUTES}minutes ${SECONDS}seconds${NC}"
+echo -e "  Duration : ${CYAN}${MINUTES}m ${SECONDS}s${NC}"
 echo -e "  Working directory : ${CYAN}${WORKDIR}${NC}"
 echo ""
